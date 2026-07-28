@@ -1,0 +1,17 @@
+# Uploaded files
+uploads/
+uploads/logos/
+
+# Database SQL files
+*.sql
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
